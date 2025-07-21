@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
-
+//this i stest comment
 // Recursive function to convert decimal to binary
 void decimalToBinary(int num, char *binary, int index) {
     if (index < 0) return;
